@@ -1,0 +1,10 @@
+*.zip
+*.xsd
+*.xml
+*.xlsx
+*.xls
+*.json
+_packages/
+details/
+iso20022_base/
+mystandards_R2026_JUN_NOV/
