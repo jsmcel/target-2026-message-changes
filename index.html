@@ -51,6 +51,18 @@
       max-width: 1120px;
       font-weight: 600;
     }
+    .download-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 10px;
+      color: var(--blue);
+      font-weight: 700;
+      text-decoration: none;
+    }
+    .download-link:hover {
+      text-decoration: underline;
+    }
     .metrics {
       display: grid;
       grid-template-columns: repeat(5, minmax(150px, 1fr));
@@ -414,6 +426,7 @@
     <h1>R2026 JUN to NOV Effective Message Changes</h1>
     <p class="subtitle">TARGET Services message matrix using the effective-release rule for MyStandards publications. Generated 2026-05-21 09:32 UTC.</p>
     <div class="rule">Rule applied: missing NOV publication means the JUN package is carried forward and remains effective; it is not treated as a service exit.</div>
+    <a class="download-link" href="changes_path_validation_against_november.xlsx">Download the validated changes workbook (.xlsx)</a>
   </header>
   <section class="metrics" id="metrics"><button class="metric" data-cat="iso_version_changed"><span>ISO version changed</span><strong>73</strong></button>
 <button class="metric" data-cat="same_iso_ug_schema_changed"><span>Same ISO version, UG/schema changed</span><strong>58</strong></button>
