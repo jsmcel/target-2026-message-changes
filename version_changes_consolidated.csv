@@ -8,20 +8,20 @@ camt.054.001,camt.054.001.12,camt.054.001.14,CLM; ECMS; RTGS; T2S; TIPS,5,2099,E
 camt.056.001,camt.056.001.11,camt.056.001.12,CLM; ECMS,2,121,ECMS-0119-UDFS(11); ECMS-0120-UDFS(11); ECMS-0118-UDFS(6); ECMS-0127-URD(2); T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),JUN to NOV service package,iso_version_changed
 pacs.002.001,pacs.002.001.14,pacs.002.001.16,CLM; ECMS,2,13,ECMS-0119-UDFS(11); ECMS-0120-UDFS(11); ECMS-0118-UDFS(6); ECMS-0127-URD(2); T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),JUN to NOV service package,iso_version_changed
 pacs.009.001,pacs.009.001.11,pacs.009.001.13,CLM; ECMS,2,11,ECMS-0119-UDFS(11); ECMS-0120-UDFS(11); ECMS-0118-UDFS(6); ECMS-0127-URD(2); T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),JUN to NOV service package,iso_version_changed
-reda.024.001,draft7reda.024.001.01,reda.024.001.01,COCOS,1,35,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),JUN to NOV service package,iso_version_changed
-reda.025.001,draft5reda.025.001.01,reda.025.001.01,COCOS,1,37,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),JUN to NOV service package,iso_version_changed
-reda.026.001,draft6reda.026.001.01,reda.026.001.01,COCOS,1,20,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),JUN to NOV service package,iso_version_changed
-reda.027.001,draft7reda.027.001.01,reda.027.001.01,COCOS,1,14,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),JUN to NOV service package,iso_version_changed
-reda.028.001,draft4reda.028.001.01,reda.028.001.01,COCOS,1,17,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),JUN to NOV service package,iso_version_changed
-reda.044.001,draft3reda.044.001.01,reda.044.001.01,COCOS,1,13,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),JUN to NOV service package,iso_version_changed
-reda.045.001,draft6reda.045.001.01,reda.045.001.01,COCOS,1,14,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),JUN to NOV service package,iso_version_changed
-reda.046.001,draft6reda.046.001.01,reda.046.001.01,COCOS,1,8,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),JUN to NOV service package,iso_version_changed
-reda.047.001,draft4reda.047.001.01,reda.047.001.01,COCOS,1,58,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),JUN to NOV service package,iso_version_changed
-reda.049.001,draft2reda.049.001.01,reda.049.001.01,COCOS,1,21,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),JUN to NOV service package,iso_version_changed
-reda.050.001,draft2reda.050.001.01,reda.050.001.01,COCOS,1,24,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),JUN to NOV service package,iso_version_changed
-reda.051.001,draft2reda.051.001.01,reda.051.001.01,COCOS,1,25,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),JUN to NOV service package,iso_version_changed
-reda.075.001,draft1reda.075.001.01,reda.075.001.01,COCOS,1,34,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),JUN to NOV service package,iso_version_changed
-reda.077.001,draft1reda.077.001.01,reda.077.001.01,COCOS,1,14,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),JUN to NOV service package,iso_version_changed
+reda.024.001,draft7reda.024.001.01,reda.024.001.01,COCOS,1,35,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),Draft to official ISO message,iso_version_changed
+reda.025.001,draft5reda.025.001.01,reda.025.001.01,COCOS,1,37,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),Draft to official ISO message,iso_version_changed
+reda.026.001,draft6reda.026.001.01,reda.026.001.01,COCOS,1,20,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),Draft to official ISO message,iso_version_changed
+reda.027.001,draft7reda.027.001.01,reda.027.001.01,COCOS,1,14,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),Draft to official ISO message,iso_version_changed
+reda.028.001,draft4reda.028.001.01,reda.028.001.01,COCOS,1,17,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),Draft to official ISO message,iso_version_changed
+reda.044.001,draft3reda.044.001.01,reda.044.001.01,COCOS,1,13,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),Draft to official ISO message,iso_version_changed
+reda.045.001,draft6reda.045.001.01,reda.045.001.01,COCOS,1,14,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),Draft to official ISO message,iso_version_changed
+reda.046.001,draft6reda.046.001.01,reda.046.001.01,COCOS,1,8,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),Draft to official ISO message,iso_version_changed
+reda.047.001,draft4reda.047.001.01,reda.047.001.01,COCOS,1,58,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),Draft to official ISO message,iso_version_changed
+reda.049.001,draft2reda.049.001.01,reda.049.001.01,COCOS,1,21,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),Draft to official ISO message,iso_version_changed
+reda.050.001,draft2reda.050.001.01,reda.050.001.01,COCOS,1,24,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),Draft to official ISO message,iso_version_changed
+reda.051.001,draft2reda.051.001.01,reda.051.001.01,COCOS,1,25,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),Draft to official ISO message,iso_version_changed
+reda.075.001,draft1reda.075.001.01,reda.075.001.01,COCOS,1,34,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),Draft to official ISO message,iso_version_changed
+reda.077.001,draft1reda.077.001.01,reda.077.001.01,COCOS,1,14,T2-0170-SYS(11); T2-0156-UDFS(6); T2-0135-SYS(2),Draft to official ISO message,iso_version_changed
 seev.001.001,seev.001.001.12,seev.001.001.13,ECMS,1,0,ECMS-0120-UDFS(15); ECMS-0119-UDFS(11); ECMS-0118-UDFS(10); ECMS-0127-URD(2),MyStandards prior family version,nov_not_in_jun
 seev.031.001,seev.031.001.15,seev.031.001.16,ECMS,1,0,ECMS-0120-UDFS(15); ECMS-0119-UDFS(11); ECMS-0118-UDFS(10); ECMS-0127-URD(2),MyStandards prior family version,nov_not_in_jun
 seev.033.001,seev.033.001.13,seev.033.001.14,ECMS,1,0,ECMS-0120-UDFS(15); ECMS-0119-UDFS(11); ECMS-0118-UDFS(10); ECMS-0127-URD(2),MyStandards prior family version,nov_not_in_jun
